@@ -1,6 +1,6 @@
 import math
 
-#LCA Algorithm, Binary Lifting, O(NlogN) Preprocessing, O(logN) query time
+#LCA Algorithm, Binary Lifting, O(NlogN) Preprocessing, O(logN) query time, O(NlogN) Space Complexity
 
 #LCA Finds the lowest common ancestor of two nodes in a tree
 
