@@ -1,7 +1,7 @@
 import math
 import random
 
-#Closest Pair of Points, O(NlogN) solution time
+#Closest Pair of Points, O(NlogN) solution time, O(N) Space Complexity
 
 #Uses Sweep Line, where it sorts all the points, then goes from left to right, adding them to the set once they are processed
 
